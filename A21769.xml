@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>September xxvij. Anno xviij. Reginæ Elizabethæ The orders appointed for the gouernment and order of the eschaunge, that the same may be vsed and kept accordyng to the lawes and statutes of the realme, which are nowe ordeyned to be obserued by the Queenes Maiesties proclamation.</title>
+            <title>Proclamations. 1576-09-27</title>
+            <author>England and Wales. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1618</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21769</idno>
+            <idno type="STC">STC 8081</idno>
+            <idno type="STC">ESTC S112141</idno>
+            <idno type="EEBO-CITATION">99847399</idno>
+            <idno type="PROQUEST">99847399</idno>
+            <idno type="VID">12432</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21769)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 12432)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 456:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>September xxvij. Anno xviij. Reginæ Elizabethæ The orders appointed for the gouernment and order of the eschaunge, that the same may be vsed and kept accordyng to the lawes and statutes of the realme, which are nowe ordeyned to be obserued by the Queenes Maiesties proclamation.</title>
+                  <title>Proclamations. 1576-09-27</title>
+                  <author>England and Wales. Privy Council.</author>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>B. Norton and J. Bill,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>ca. 1618]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from STC.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Foreign exchange --  Law and legislation --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Elizabeth, 1558-1603 --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:12432:1"/>
+            <!-- PDF PAGE 11 -->
+            <head>
+               <figure>
+                  <q>HONI SOIT Q<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>
+               <date>September xxvij. Anno xviij. Reginae Elizabethae.</date>
+            </head>
+            <head type="sub">¶ <hi>The orders appointed for the gouernment and order of the Eſchaunge,</hi> that the ſame may be vſed and kept accordyng to the lawes and ſtatutes of the Realme, which are nowe ordeyned to be obſerued by the Queenes Maieſties Proclamation.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Irſte, all Merchantes, Engliſhe and Straungers, and all other her Maieſties ſub<g ref="char:EOLhyphen"/>iectes, are to vnderſtande, that by the Lawes and ſtatutes of this Realme, no man ought to make any eſchaunge, or rechaunge of money, but ſuche as her Maieſtie ſhall aucthoriſe, or their leefull Deputies, to keepe, make, and anſwere for ſuch eſ<g ref="char:EOLhyphen"/>chaunges and rechaunges, vpon paynes conteyned in the ſame Statutes.</p>
+            <p>And to the intent the ſame may be vſed for the neceſſarye vſes of leefull eſ<g ref="char:EOLhyphen"/>chaunge and rechaunge in caſes requiſite, it is at this preſent tyme ordered for the vſage thereof, that Edmonde Calthrop, Thomas <unclear>Dalton</unclear>, of the Citie of London Haberdaſhers, and Iohn Wanton, of the ſame Citie Grocer, men well acquaynted with the manner of eſchaunges and rechanges, from and to the Citie of London, and to from forra<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gne partes, ſhall and may make and geue ſufficient warrant to all perſons for eſchaunge and reeſchaunge, in ſuche ſorte as ſhall be agreeable to the obſer<g ref="char:EOLhyphen"/>uation of the lawes for that purpoſe ordeyned. And therefore from henceforth al billes of eſchaunge or reeſchaunge, endorced or ſubſcribed with the name and hand wrytyng of them, or any one of them, ſhall be ſufficient warrant both for the deliuerer and taker. And whenſoeuer any others ſhalbe appointed to occupie and exerciſe the ſame roomes, for the keeping of the ſayde eſchaunge, there ſhalbe thereof from tyme to tyme notice publiquely geuen in places thereto requiſite.</p>
+            <p>
+               <hi>Item,</hi> It is to be regarded, that none goe about by any fraudulent colour or deuice, to alter, or to diſcontinue the auncient manner of delyueryng or taking of money by eſchaunge, whereby eyther the intention of the lawes prouided therefore, or her Maieſties prerogatiue for her fynes and dueties anſwerable for the ſame, be abuſed or defrauded.</p>
+            <p>
+               <hi>Item,</hi> though there haue ben alwayes anſwered in former tymes to her Maieſties progenitours, and to the Maiſters and keepers of the eſchange, from tyme to tyme, as by many recordes is verye ma<g ref="char:EOLhyphen"/>nyfeſt to be ſeene, vpon euery Engliſhe Noble, of the deliuerer one penye, and the lyke of the taker, whiche was vpon euery pounde ſyxe pence: yet for the more eaſe, and leſſe burden, of ſuch as ſhal haue neceſſarie cauſe to delyuer and take by eſchaunge, there ſhall not be for this tyme, nor vntill greater cauſe ſhall moue for her Maieſties ſeruice, and more be taken but one farthyng of the ſaid Noble, or the value thereof for the deliuerer, and one other farthyng of the taker, whiche ſhalbe vpon the pound, but penie halfpenie.</p>
+            <p>
+               <hi>Item,</hi> It is to be conſydered, that the eſchaunge and reeſchaunge ſhall be ſo ordered, that as neare as poſſibly may be, and as tymes of trade may ſuffer, the moneyes of this Realme may not be deliuered vnder the iuſt values of theyr ſtanderd, neither that any eſchaunges of money to be vſed, but for the vſe of knowen Marchauntes, or for ſuch as otherwiſe by the Queenes Maieſties licence, or leefully by the lawes and vſages of the Realme, haue or hereafter ſhal haue cauſe for theyr needful buſineſſe, to make theyr eſchaunges of moneys of this Realme, for moneys in forraigne places.</p>
+            <p>Finally, yf there ſhall hereafter appeare any further matter needfull to be ordeyned or declared for the better and more perfect vſage of the eſchaunge, or for the auoyding or explaning of any doubtes that may aryſe: the ſame ſhalbe with aduiſe of wyſe and expert men in the trade of marchandize, and of eſ<g ref="char:EOLhyphen"/>chaunge, notified in lyke tables from tyme to tyme, to be ſeene and read in this place.</p>
+            <closer>God ſaue the Queene.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
